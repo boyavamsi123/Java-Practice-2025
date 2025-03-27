@@ -1,0 +1,60 @@
+1.what is the decision making statement?
+2.Difference types of decision making statement in java
+3.Syntax for if, if-else, nested if statements in java
+4.Hands on experience with if, if-else, nested if statements in java
+
+what is the decision making statement?
+Decision-making statements allow you to make a decision, based upon the reuslt 
+of a condition
+
+Difference types of decision making statement in java:-
+if 
+if-else 
+switch
+
+if Syntax :-
+------------
+if(condition){
+    //statements
+}
+
+
+if-else Syntax:-
+---------------
+if(condition){
+    //statement
+}
+else{
+    //statement
+}
+
+Assignments :-
+
+1.verify any given number is Even or odd
+
+Ex:
+input:5
+output:Given number is odd
+
+input:4
+output:Given number is Even
+
+2.print the student reuslt based on the grading system
+
+< 35-fail
+== 35-pass
+35 to 70-third class 
+70 to 85-second class
+>85 first class
+
+Ex:
+input:75
+output:student secured second class
+
+input:25
+output:student is failed
+
+3.Print the statement based on day name 
+
+Monday to Friday -> Uff,It's a weekday
+Saturday to Sunday -> Yayy, It,s a weekend
