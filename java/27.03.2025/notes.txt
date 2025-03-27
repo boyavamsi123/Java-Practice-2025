@@ -1,0 +1,45 @@
+1.What is a decision making statement?
+2.Different types of decision making statement in java
+3.Syntax for switch statement in java
+4.Hands on experience with switch statement in java 
+5.What is the break keyword and why do we use it?
+
+switch Syntax :-
+----------------
+switch(key){
+    case value:
+        //statements
+    \break;
+
+    default:
+        //statements
+     break;
+}
+
+Assignments:
+1.verify any given number is even or odd
+Ex:
+Input:5
+output:Given number is odd
+
+Input:4
+output:Given number is even
+
+2.Perform arithmetic operators on two numbers
+Ex:
+Enter first number:
+45
+
+Enter second number:
+50
+
+Enter The Target operation
++ or - or * or /
+
+output: Result is :
+
+3.Print the statement based on day name
+Ex:
+Monday to Friday -> Uff, Its a weekday
+Saturday to Sunday -> Yayy, Its a weekend
+
