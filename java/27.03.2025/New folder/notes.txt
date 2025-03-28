@@ -1,0 +1,7 @@
+1. what is the constructor?
+2. what are the thumb rules for creating a constructor?
+3. what is a default constructor or implict constructor?
+4. what is explicit constructor?
+5.Different types of explicit constructor?
+
+What is a constructor?

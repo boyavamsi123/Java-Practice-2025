@@ -1,0 +1,16 @@
+1. What is an Array?Why do we need an Array?
+2. Different types of arrays in java?
+3. What is a single dimensional array?
+4. Different ways of initializing single-dimensional array
+5. What are default value of array elements?
+
+What is an Array ?
+
+An array is a container object that holds a fixed number of values of a 
+single type.
+
+Different types of arrays in java?
+1.Single Dimensional Array
+2.Two Dimensional Array
+  * Two Dimensional Array
+  * Jagged Array

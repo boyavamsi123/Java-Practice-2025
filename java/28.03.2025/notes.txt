@@ -1,0 +1,38 @@
+Data Types:
+1.Primitive 
+  Number:
+    Integer Type
+
+       Byte    - byte   - 1 byte
+       Short   - short  - 2 bytes 
+       Integer - int    - 4 bytes
+       Long    - long   - 8 bytes
+
+    Decimal Type
+
+       Float   - float  - 4 bytes 
+       Double  - double - 8 bytes 
+
+  Boolean: 
+    Boolean    boolean - 1 bit
+  Character: 
+    Character  char    - 2 bytes
+
+2.Non-Primitive
+
+  Arrays
+  Collections
+  Interface
+  Class
+
+
+
+Computer memory units:
+bit = binary digits
+1 Nibble = 4 bits
+1 Byte = 8 bits
+1 Kilo byte (KB) = 1024 bytes
+1 Mega byte (MB) = 1024 Kilobytes
+1 Giga byte (GB) = 1024 megabytes
+1 Tera byte (TB) = 1024 giga bytes
+1 Peta byte (PB) = 1024 tera bytes
