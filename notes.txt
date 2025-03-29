@@ -1,0 +1,13 @@
+Linked in:-
+-----------
+1.Profile Pic
+2.Banner
+3.Heading
+4.Connections
+5.About
+6.Activity
+7.Experience
+8.Education
+9.Skills
+10.Languages
+11.Recommendations

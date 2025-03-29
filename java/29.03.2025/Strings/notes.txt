@@ -1,0 +1,21 @@
+What is type inference?
+Type Inference is a concept in which the compiler infers the type variable
+using the value provided.
+
+* This type inference is restricted to local variables.
+* This feature is introduced in java 10 version.
+
+var keyword restrictions
+- var can only be used in the local variables.
+- var cant be used for only declaration purpose, instead it should be used
+  used along with initialialisation.
+- When used with arrays, should not use the[] brickets.
+- var can't be used in In-line array initialialisation result 
+  specifying the datatype.
+
+var keyword restrictions:
+* var can only be used in the local variables.
+* var can't be used for only declaration purpose, instead it should be used
+  along with initialisation.
+* When used with arrays, should not use the[] brackets.
+* var cant be used in in-line array initialisation without specifying datatype.
