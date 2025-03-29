@@ -1,0 +1,5 @@
+1. What is static in java?
+2. How to specify static and non-static keywords on variables, methods
+   and blocks?
+3. How do we access static variables or methods?
+4. Understand the memory concept

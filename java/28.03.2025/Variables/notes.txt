@@ -1,0 +1,10 @@
+1. What is inference?
+2. How to use var keyword?
+3. var keyword restrictions?
+
+What is inference?
+Type inference is a concept in which the compiler infers the type of the 
+variable using the value provided.
+
+* This type inference is restricted to local variables.
+* This feature is introduced in java 10 version.
